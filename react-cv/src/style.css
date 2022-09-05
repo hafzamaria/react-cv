@@ -1,0 +1,131 @@
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+    box-shadow: 0px 0px 10px black;
+    height: 800px;
+    border-radius: 100px;
+    width: 1100px;
+    margin-left: 100px;
+}
+.intro{
+    display: flex;
+    margin-left: 10px;
+    background: aliceblue;
+    border-radius: 100px 80px 71px 0;
+    height: 302px;
+    margin-left: 10px;
+}
+.one{
+    background-color: rgb(235, 192, 114);
+    height: 200px;
+    width: 687px;
+    padding: 15px;
+    top: -200px;
+    margin-bottom: 100px;
+    border-radius: 100px 0px;
+    margin: 20px;
+    margin-bottom: -100px;
+    box-shadow: 0px 0px 10px grey;
+}
+.name{
+    padding: 10px;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 92px;
+    margin-top: -6px;
+    text-align: center;
+}
+.web{
+    text-decoration: underline;
+    font-size: 50px;
+    margin-top: -96px;
+    margin-left: 281px;
+}
+.contact{
+    margin-left: 46px;
+    margin-top: 47px;
+}
+.obsolute{
+    background-color:cadetblue;
+    height: 550px;
+    width: 1020px;
+    padding: 15px;
+    margin-bottom: 100px;
+    border-radius: 0px 100px;
+    margin: 20px;
+    margin-bottom: -102px;
+    margin-top: -33px;
+    margin-top: 0px;
+}
+.p1{
+    margin-top: -10px;
+    padding: 10px;
+    font-size: 18px;
+}
+.p2 .p3{
+    margin-left: -12px;
+}
+.hoEdu{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: -170px; */
+    margin-right: -71px;
+    margin-top: 25px;
+}
+.hoby{
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.lang{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -20px;
+    margin-left: -6px;
+}
+.skils{
+    margin-right: 220px;
+    margin-left: -120px;
+   
+}
+.ul{
+    margin-right: 90px;
+}
+.all > li{
+    margin-bottom: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
